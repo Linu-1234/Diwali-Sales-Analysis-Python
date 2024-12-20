@@ -18,9 +18,9 @@
 4. Visualization:
 - Use Python visualization libraries (e.g., Matplotlib, Seaborn) for creating graphs.
 - Enhance the presentation by designing visuals in Canva.
-5.Insights Generation:
+5. Insights Generation:
 - Derive actionable insights about customer behavior and trends.
-6.Conclusion:
+6. Conclusion:
 - Summarize the findings and propose recommendations for optimizing sales strategies.
 
 ## Dashboard Interaction
@@ -38,4 +38,4 @@
  - most of the sold products are from Food, Clothing and Electronics category.
 
 ## Conclusion
-- Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+- Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
